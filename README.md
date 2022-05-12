@@ -1,2 +1,8 @@
 # fancyfedora
-Fancy Fedora is a post install script for Fedora systems. Enjoy!
+
+This is a post-install script for Fedora systems
+
+# Installation instructions
+- git clone https://github.com/BubsyOrange/fancyfedora
+- cd fancyfedora
+- sudo ./fancyfedora.sh
