@@ -1,2 +1,5 @@
-### Version 0.1
+### Revision 0.1
 - Added an ASCII-styled welcome and final message.
+
+### Revision 0.2
+- Removed the ASCII welcome messages.
