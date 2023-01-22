@@ -2,7 +2,7 @@
 #
 # fancyfedora.sh Author: Bubsy Orange
 # git clone https://github.com/BubsyOrange/fancyfedora 
-# Usage: sudo ./install.sh
+# Usage: ./install.sh
 #
 # Standard Disclaimer: Author assumes no liability for any damage
 
